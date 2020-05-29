@@ -171,16 +171,16 @@ MongoDB Server
 │   	│    	└───Document2
 │   	│    	│      	│
 │   	│    	│      	└─── Field1 : Object
-│   	│    	│      	│				│
-│   	│    	│      	│				└─── ObjectField1 : StringValue
-│   	│    	│      	│				└─── ObjectField2 : StringValue
+│   	│    	│      	│     │
+│   	│    	│      	│		└─── ObjectField1 : StringValue
+│   	│    	│      	│		└─── ObjectField2 : StringValue
 │   	│    	│      	│
 │   	│    	│      	└─── Field2 : StringValue
 │   	│    	│      	└─── Field3 : IntegerValue
 │   	│    	│      	└─── Field4 : Object
-│   	│    	│      	│				│
-│   	│    	│      	│				└─── ObjectField1 : booleanValue
-│   	│    	│      	│				└─── ObjectField2 : booleanValue
+│   	│    	│      	│		│
+│   	│    	│      	│		└─── ObjectField1 : booleanValue
+│   	│    	│      	│		└─── ObjectField2 : booleanValue
 │   	│    	│      	└─── ...
 │   	│    	└───...
 │   	│
