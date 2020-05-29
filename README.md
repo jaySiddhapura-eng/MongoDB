@@ -69,26 +69,65 @@
       
    
 2. BASE transection<br>
+
+   
+
    1. **B**asically **A**vailable, **S**oft state, **E**ventually consistence<br>
+
+      
+
    2. BASE Properties is model of many NoSQL databases<br>
+
+      
+
    3. BASE transections follows **CAP theorem**<br>
+
+      
+
    4. CAP theorem states that a distributed computer system can not guarantee all three properties same time, these three properties are Consistency, availability and Partition tolerance<br>
+
+      
+
    5. BASE transections given up the consistency in order to obtain Availability and soft state<br>
+
+      
+
    6. **<u>Basically Available</u>**: System guarantees availability, although does not guarantees that the response from DB contains the most recent data<br>
+
+      
+
    7. **<u>Soft state</u>**: The state of system may changes over time, even without any input, because of eventual consistency model<br>
+
+      
+
    8. **<u>Eventual Consistency</u>**: System will become consistence over time, given that system does not receive any input during that time<br>
 
 ## What is scalability in terms of database? 
 
 1. **Vertically scalable**: SQL, u can increase the load on single server by increasing the hardware components or upgrading the entire server with new one<br>
+
+   
+
 2. **Horizontal scalable**: server can handle more traffic by sharding or by adding more number of server in no SQL database
 
 ## What is sharding?
 
 1. A process which **splits** the database into unique pieces each of which is hosted on different server
+
+   
+
 2. Sharding is necessary in case of data set is too large to be stored in single database
+
+   
+
 3. **Horizontal Sharding**: Split the database row wise [different entities in different Shard DB]
+
+   
+
 4. **Vertical Sharding**: Split the database column wise [different features of entity in different Shard DB]
+
+   
+
 5. **Directory Sharding**: Before searching the Shard DBs user has to reach the lookup service. Lookup service knows the current partitioning scheme and search the appropriate Sharded DB for given entity
 
 ## MongoDB Terminology
