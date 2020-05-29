@@ -38,4 +38,4 @@
 
 ## 9.
 
-![Cloning the exisiting Document](https://github.com/jaySiddhapura-eng/MongoDB/blob/master/compass/9.CloningTheExisitingDocument.jpg)
+![Cloning the exisiting Document](https://github.com/jaySiddhapura-eng/MongoDB/blob/master/compass/9.CloningTheDocument.jpg)
