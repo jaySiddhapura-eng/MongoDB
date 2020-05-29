@@ -29,15 +29,45 @@
 ## ACID vs BASE Transections
 
 1. ACID transaction<br>
+   
+   
+   
    1. ACID stands for **A**tomicity, **C**onsistency, **I**solation, **D**urability<br>
+   
+      
+   
    2. **Transection is a single logical unit** of work which access/modify the contents of DB<br>
+   
+      
+   
    3. In order to maintain the consistency in transection certain property need to follow<br>
+   
+      
+   
    4. This property called ACID property<br>
+   
+      
+   
    5. <u>Atomicity</u>: It guaranty that each transection [single unit consists of statements] **either succeed fully or failed fully**. No partiality in success and failure. Database will be modify only when transection succeeded fully.<br>
+   
+      
+   
    6. <u>Consistency</u>: Given data transection must **change the affected data only in allowed ways**. Any data written to the database must be valid according to the defined rules.<br>
+   
+      
+   
    7. <u>Isolation</u>: **Concurrent transections** to the database must leave database in resultant state, which would be obtain if all the transections were done sequentially. [Isolation between transections]<br>
+   
+      
+   
    8. <u>Durability</u>: This property **insures** that the committed **transection will remain committed** in the case of system failure. <br>
+   
+      
+   
    9. All the **SQL data follows** ACID properties<br>
+   
+      
+   
 2. BASE transection<br>
    1. **B**asically **A**vailable, **S**oft state, **E**ventually consistence<br>
    2. BASE Properties is model of many NoSQL databases<br>
