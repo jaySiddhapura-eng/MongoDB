@@ -4,7 +4,10 @@
 
 ## NoSQL
 
-1.   
+1. Single MongoDB server typically has multiple databases
+2. **MongoDB analogy** along with typical SQL DB
+3. l3
+4. l4
 
 1. stands for **Not Only SQL**<br>
 2. NoSQL database **can store relationship data** but differently then RDB do<br>
