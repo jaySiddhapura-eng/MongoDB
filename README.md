@@ -147,7 +147,7 @@
 
 ## MongoDB Compass Startup Guide
 
-​	Put the link of the compass.md from compass folder
+​	[Compass Image Tutorial](https://github.com/jaySiddhapura-eng/MongoDB/blob/master/compass/compass.md)
 
 ## Sample MongoDB database Structure
 
