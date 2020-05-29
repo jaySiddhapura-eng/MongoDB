@@ -2,20 +2,18 @@
 
 ------
 
-[TOC]
-
-
-
 ## NoSQL
 
-1. stands for **Not Only SQL**
-2. NoSQL database **can store relationship data** but differently then RDB do
-   1. Non relational database 
-   2. No traditional aspect of RDB [table, row, column]
-3. Since relational data does not need split between tables, its **easy to model relational data** in NoSQL
-4. **Allows nesting of related data** in single data structure
-5. Quick and Agile adaptation to the change in software requirements made possible due to **flexibility of NoSQL**
-6. Best suited for **Big Data**
+1.   
+
+1. stands for **Not Only SQL**<br>
+2. NoSQL database **can store relationship data** but differently then RDB do<br>
+   1. Non relational database <br>
+   2. No traditional aspect of RDB [table, row, column]<br>
+3. Since relational data does not need split between tables, its **easy to model relational data** in NoSQL<br>
+4. **Allows nesting of related data** in single data structure<br>
+5. Quick and Agile adaptation to the change in software requirements made possible due to **flexibility of NoSQL**<br>
+6. Best suited for **Big Data**<br>
    1. Big volume of data, where traditional method of DBMS is inadequate 
 
 ## Difference between SQL and NoSQL database
