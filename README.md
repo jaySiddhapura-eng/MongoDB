@@ -149,6 +149,8 @@
 
 ​	[Compass Image Tutorial](https://github.com/jaySiddhapura-eng/MongoDB/blob/master/compass/compass.md)
 
+​	[MongoDB Cheatsheet](https://github.com/jaySiddhapura-eng/MongoDB/blob/master/MongoDB-CheatSheet-v1_0.pdf)
+
 ## Sample MongoDB database Structure
 
 ```
@@ -799,9 +801,9 @@ MongoDB Server
 
 6. [MongoDB Server Installation](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/)
 
-7. [MongoDB GUI Installation](link from github)
+7. [MongoDB GUI Installation](https://www.youtube.com/watch?v=hVS4aP8EEGY)
 
-8. [MongoDB cheatsheet](link from github pdf)
+8. [MongoDB cheatsheet](https://github.com/jaySiddhapura-eng/MongoDB/blob/master/MongoDB-CheatSheet-v1_0.pdf)
 
 9. [$in Operator](https://docs.mongodb.com/manual/reference/operator/query/in/)
 
