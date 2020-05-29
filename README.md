@@ -4,13 +4,13 @@
 
 ## NoSQL
 
-2. NoSQL database **can store relationship data** but differently then RDB do<br><br>
+1. NoSQL database **can store relationship data** but differently then RDB do<br><br>
    1. Non relational database <br><br>
    2. No traditional aspect of RDB [table, row, column]<br><br>
-3. Since relational data does not need split between tables, its **easy to model relational data** in NoSQL<br><br>
-4. **Allows nesting of related data** in single data structure<br><br>
-5. Quick and Agile adaptation to the change in software requirements made possible due to **flexibility of NoSQL**<br><br>
-6. Best suited for **Big Data**<br><br>
+2. Since relational data does not need split between tables, its **easy to model relational data** in NoSQL<br><br>
+3. **Allows nesting of related data** in single data structure<br><br>
+4. Quick and Agile adaptation to the change in software requirements made possible due to **flexibility of NoSQL**<br><br>
+5. Best suited for **Big Data**<br><br>
    1. Big volume of data, where traditional method of DBMS is inadequate 
 
 ## Difference between SQL and NoSQL database
