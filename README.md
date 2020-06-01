@@ -104,7 +104,7 @@
 
 ## What is scalability in terms of database? 
 
-1. **Vertically scalable**: SQL, u can increase the load on single server by increasing the hardware components or upgrading the entire server with new one<br>
+1. **Vertically scalable**: SQL, you can increase the load on single server by increasing the hardware components or upgrading the entire server with new one<br>
 
    
 
@@ -458,7 +458,7 @@ MongoDB Server
    })
    ~~~
 
-7. **Value not in Array** [Object
+7. **Value not in Array** [Object]
 
    ~~~javascript
    // add sample syntex
